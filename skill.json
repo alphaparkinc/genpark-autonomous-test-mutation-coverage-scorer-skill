@@ -1,0 +1,15 @@
+{
+  "name": "genpark-autonomous-test-mutation-coverage-scorer-skill",
+  "version": "1.0.0",
+  "description": "Mutation testing coverage analyzer, mutant generator, surviving mutant killer, and boundary test case synthesizer.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "mutation-testing",
+    "coverage",
+    "test-quality",
+    "qa",
+    "genpark",
+    "mcp"
+  ]
+}
